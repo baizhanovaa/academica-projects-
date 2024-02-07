@@ -12,5 +12,8 @@ The coffee_sales_data.py script focuses on the analysis of coffee sales data. It
 - mini project.py: US Flights Analysis with Pandas, Matplotlib, and Seaborn
 The mini project.py script utilizes Pandas, Matplotlib, and Seaborn to analyze flight data in the United States. It covers basic statistics and includes the creation of histograms to visualize the distribution of relevant data. This script offers a comprehensive overview of flight-related statistics with informative visualizations.
 
+- qqplot and kde.py: QQ Plot and Kernel Density Estimation
+Implements Quantile-Quantile plots (qqplot) and Kernel Density Estimation (KDE). QQ plots help assess data normality, while KDE provides a smooth estimate of the probability density function.
+
 
 
