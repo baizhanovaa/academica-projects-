@@ -1,4 +1,4 @@
-# academica projects 
+# projects 
 
 - Statistics.py: Descriptive Statistics
 This Python script, Statistics.py, provides descriptive statistics for a given dataset. It includes calculations for mean, median, mode, range (max - min), standard deviation, percentile, histogram, boxplot, and interquartile range.
