@@ -23,5 +23,14 @@ Machine Learning Models: Utilization of ensemble methods from sklearn.ensemble (
 Model Evaluation and Optimization: Metrics from sklearn.metrics (confusion matrix, R2 score, etc.), and GridSearchCV for model tuning.
 Preprocessing: sklearn.preprocessing for feature scaling and encoding, and dimensionality reduction with PCA.
 
+- MINI PROJECT ML (fv) hw .ipynb: This project focuses on building and optimizing machine learning models to solve a predictive task.
+Key Tools and Libraries Used:
+Data Handling and Analysis: pandas for dataset manipulation, numpy for numerical computations.
+Machine Learning Pipeline:
+Preprocessing: MinMaxScaler from sklearn.preprocessing for feature scaling.
+Model Selection and Validation: train_test_split and GridSearchCV from sklearn.model_selection for splitting data and optimizing model parameters.
+Visualization: matplotlib for generating plots to visualize data and results.
+Performance Metrics: mean_squared_error (MSE) and r2_score from sklearn.metrics for evaluating model accuracy and performance.
+
 
 
