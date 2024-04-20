@@ -15,5 +15,13 @@ The mini project.py script utilizes Pandas, Matplotlib, and Seaborn to analyze f
 - qqplot and kde.py: QQ Plot and Kernel Density Estimation
 Implements Quantile-Quantile plots (qqplot) and Kernel Density Estimation (KDE). QQ plots help assess data normality, while KDE provides a smooth estimate of the probability density function.
 
+- ML_project_final: This project employs an array of machine learning algorithms and data manipulation tools to predict customer transaction amounts. The primary dataset, train_dataset.csv, consists of transaction sums under the column int_target, which serves as the target variable.
+Key Tools and Libraries Used:
+Data Handling: pandas for data manipulation, numpy for numerical operations.
+Visualization: matplotlib and plotly for graphical representations of data insights.
+Machine Learning Models: Utilization of ensemble methods from sklearn.ensemble (Random Forest, AdaBoost, Gradient Boosting), boosting models like xgboost.XGBClassifier and lightgbm.LGBMClassifier, as well as catboost.CatBoostClassifier. Traditional algorithms include sklearn.linear_model.LogisticRegression and LinearRegression.
+Model Evaluation and Optimization: Metrics from sklearn.metrics (confusion matrix, R2 score, etc.), and GridSearchCV for model tuning.
+Preprocessing: sklearn.preprocessing for feature scaling and encoding, and dimensionality reduction with PCA.
+
 
 
